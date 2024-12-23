@@ -258,7 +258,7 @@ https://cutv-wp21.cdn.telefonica.com/5050/vxfmt=dp/Manifest.mpd?device_profile=D
 
 #EXTINF: -1, tvg-name="DAZN LALIGA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNLI" group-title="Movistar", DAZN LALIGA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d026b5b9a57f46ec8d080f792ecbc1c0&key=dc02a224dce8b8e7a2aa25b2793079c0
+#KODIPROP:inputstream.adaptive.license_key={"d026b5b9a57f46ec8d080f792ecbc1c0":"dc02a224dce8b8e7a2aa25b2793079c0"}
 https://cutv-wp21.cdn.telefonica.com/5119/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-01-07T12:37:20Z&end_time=2024-01-07T22:37:20Z
 
 #EXTINF: -1, tvg-name="DAZN LALIGA 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL2" group-title="Movistar", DAZN LALIGA 2
